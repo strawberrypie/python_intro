@@ -1,5 +1,5 @@
 ## Курс языка Python и базовых алгоритмов и структур данных 
-<a href="https://everware.ysda.yandex.net/hub/oauth_login?repourl=https://github.com/strawberrypie/python_intro"><img src="https://img.shields.io/badge/run%20me-%40everware-blue.svg" /></a>
+<a href="http://everware.ysda.yandex.net/hub/oauth_login?repourl=https://github.com/strawberrypie/python_intro"><img src="https://img.shields.io/badge/run%20me-%40everware-blue.svg" /></a>
 
 Разработан в виде тетрадок IPython - удобное средство представления материала с интерактивным выполнением кода. 
 Инструкции по локальному развертыванию сервера Jupyter для использования тетрадок IPython представлены в [тетрадке](https://github.com/Yorko/python_intro/blob/master/python_lesson1_tools/lesson1_part1_python_intro_tools.ipynb) с обзором средств - python_lesson1_tools/lesson1_part1_python_intro_tools.ipynb.
